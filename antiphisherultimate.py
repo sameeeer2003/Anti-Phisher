@@ -6,7 +6,7 @@ from selenium.webdriver.edge.service import Service
 from selenium.webdriver.edge.options import Options
 from urllib.parse import urlparse
 
-DUMMY_EMAIL = "**********"
+DUMMY_EMAIL = "#########"
 DUMMY_PASSWORD = "*********"
 CHECK_INTERVAL = 1
 LEGITIMACY_INDICATORS = [
